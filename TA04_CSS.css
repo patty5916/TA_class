@@ -1,0 +1,135 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    background-color: white;
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 75px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: navy;
+    text-align: center;
+    padding: 30px 30px 20px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: royalblue;
+    border-bottom: 3px solid steelblue;
+  }
+
+.wrapper {
+    padding: 150px;
+}
+
+
+.pro-box {
+    width: 90%;
+    align-content: center;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    word-spacing: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+
+.subtitle {
+    text-align: center;
+    word-spacing: 2px;
+    color: grey;
+}
+
+.row {
+    width: 90%;
+    margin: auto;
+    align-content: center;
+    padding-top: 30px;
+}
+
+.card {
+    margin: 29px;
+    height: 400px;
+    width: 300px;
+    float: left;
+    border: 1px solid gainsboro;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 1s ease;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.card-head-side {
+    border-top: 10px solid rgba(135, 206, 250, 0.5);
+    height: 250px;
+}
+
+.card-body-side {
+    background-color: rgba(135, 206, 250, 0.5);
+    height: 150px;
+}
+
+.card-head-center {
+    border-top: 10px solid rgba(176, 196, 222, 0.5);
+    height: 250px;
+}
+
+.card-body-center {
+    background-color: rgba(176, 196, 222, 0.5);
+    height: 150px;
+}
+
+.card-content {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 120%;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    display: block;
+    padding-top: 50px;
+}
+
+footer {
+    padding-top: 350px;
+}
+
+.btm {
+    width: 100%;
+    background-color: whitesmoke;
+    height: 75px;
+}
+
+.btm-content {
+    font-size: 90%;
+    text-align: end;
+    color: navy;
+    padding-top: 45px;
+    padding-right: 15px;
+}
