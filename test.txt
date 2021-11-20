@@ -1,1 +1,1 @@
-This is for TA class.
+This is for TA class of Introduction to Data Science.
