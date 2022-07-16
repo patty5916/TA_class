@@ -1,4 +1,4 @@
-## 110-1 NCKU Introduction on Data Science (TA class)
+## 110-1 NCKU Introduction to Data Science (TA class)
 ### Pandas
 ### HTML & CSS
 ### BeautifulSoup
