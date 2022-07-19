@@ -13,3 +13,4 @@ In the end, we will teach you how to use HTML and CSS to implement a website, wh
 - Do it
   > `VS Code`, and `DevTools`
 - Demo
+  <kbd><img src="images/demo.jpeg" style="border: 2px black;"></kbd>
