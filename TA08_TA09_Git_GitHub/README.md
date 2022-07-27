@@ -6,5 +6,10 @@ GitHub is a complete developer platform to build, scale, and deliver secure soft
 ## Contents
 - Git
   > `config`, `init`, `add`, `commit`, `log`, `status`, `remote`, `push`, `checkout`, `branch`, `merge`, `clone`, `fetch`, `pull`, `clean`, and `reset`.
+    
+  <kbd><img src="images/git.jpg" style="border: 2px black;"></kbd>
+
+  <kbd><img src="images/git2.jpg" style="border: 2px black;"></kbd>
 - GitHub
   > `repository`, `page`, and `SSH`.
+
