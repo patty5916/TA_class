@@ -8,3 +8,4 @@ This is part of the teaching materials for the teaching assistant course of 110-
 [HTML & CSS](https://github.com/patty5916/TA_class/tree/master/TA04_HTML_CSS)  
 [BeautifulSoup](https://github.com/patty5916/TA_class/tree/master/TA06_BeautifulSoup)  
 [Git & GitHub](https://github.com/patty5916/TA_class/tree/master/TA08_Git_GitHub)
+[Dash & Plotly](https://github.com/patty5916/TA_class/tree/master/TA12_Dash_Plotly)
